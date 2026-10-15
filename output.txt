@@ -1,0 +1,32 @@
+=== Data Redundancy Removal System ===
+Existing records: 0
+
+1. Add record
+2. View records
+3. Exit
+Choose an option: 1
+Enter name: Kavya
+Enter email: kavya@example.com
+Record added successfully.
+
+1. Add record
+2. View records
+3. Exit
+Choose an option: 1
+Enter name: Kavya S
+Enter email: KAVYA@example.com
+Duplicate detected! Record was not added.
+
+1. Add record
+2. View records
+3. Exit
+Choose an option: 2
+
+Saved records:
+1. Kavya - kavya@example.com
+
+1. Add record
+2. View records
+3. Exit
+Choose an option: 3
+Goodbye!
